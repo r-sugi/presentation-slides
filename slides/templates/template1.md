@@ -10,8 +10,7 @@ footer: "by r-sugi"
 <!-- 自己紹介: 15秒以内 -->
 # 自己紹介
 
-フリーランスエンジニア5年目
-Github: r-sugi (経歴記載済み)
-Zenn: rsugi
+### フリーランスエンジニア5年目
+![10% left](../../assets/images/social-account.png)
 
-![bg 50% right](../assets/images/zenn-icon.jpeg)
+![bg 50% right](../../assets/images/zenn-icon.jpeg)
